@@ -1,0 +1,208 @@
+{
+  "title": "The TRUST Code in 45 Minutes",
+  "shortTitle": "The TRUST Code in 45 Minutes",
+  "bannerImageURL": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/TRUST_cover_people.png",
+  "id": "trust_code",
+  "metadata": {
+    "createdOn": 1718614924,
+    "lastEdited": 1718614924,
+    "authors": [
+      "Doris Schroeder, Kate Chatfield, Michelle Singh"
+    ]
+  },
+  "startingComponentID": "index",
+  "components": [
+
+    {
+      "id": "index",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/index.html"
+    },
+    {
+      "id": "have-you-heard-about-TRUST",
+      "type": "mcq",
+      "prompt": "",
+      "content": "Have you heard about the TRUST Code, a Global Code of Conduct for Equitable Research Partnerships? (The code was previously known as the Global Code of Conduct for Research in Resource-Poor Settings.)",
+      "options": [
+        {
+          "id": 0,
+          "title": "Yes",
+          "description": "",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": 1,
+          "title": "Yes, I have used it.",
+          "description": "",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": 2,
+          "title": "No.",
+          "description": "",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "feedback": "For those of you who are familiar with the TRUST Code, this is a refresher. For the newcomers, welcome on board! We hope you will find the code useful."
+    },
+
+    {
+      "id": "why-partnerships-important",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/why-partnerships-important.html"
+    },
+
+    {
+      "id": "trust_img_1-helicopter-research",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_1.html"
+    },
+
+    {
+      "id": "trust_img_2-skewed-research-attention",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_2.html"
+    },
+
+    {
+      "id": "trust_img_3-ethics-dumping",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_3.html"
+    },
+
+    {
+      "id": "trust_img_3-ethics-dumping-video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/ethics-dumping-script.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/ethics%20dumping.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "trust_img_4-humanity-s-challenges",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_4.html"
+    },
+
+    {
+      "id": "trust_code_video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust-code.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/TRUST%20Code.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "fairness_video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/fairness-video.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/fairness.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "poll_who_can_make_a_difference",
+      "type": "poll",
+      "prompt": "Please tick only your top answer in this anonymous poll. Who can best ensure that international research partnerships are equitable?",
+      "content": "Who can make a difference?",
+      "options": [
+        {
+          "id": 0,
+          "title": "Research funders have the most power to ensure research is undertaken equitably because they can attach conditions to grant funding. ",
+          "description": ""
+        },
+        {
+          "id": 1,
+          "title": "Principal investigators make the main decisions about how to conduct research and are best placed to push for equitable research partnerships in practice.",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "title": "Publishers have the most influence because they can refuse to publish research that is not undertaken equitably.",
+          "description": ""
+        },
+        {
+          "id": 3,
+          "title": "Research ethics committees have a lot of power as they can request changes to the research protocol.",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "title": "A collaboration of all stakeholders is required, individual groups cannot make a difference.",
+          "description": ""
+        }
+      ],
+      "feedback": "Thank you for your submission!"
+    },
+
+    {
+      "id": "what_researchers_can_do_video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-researchers-can-do.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/23%20articles%20TRUST%20Code.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "what_funders_can_do_video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/24AV057_Research%20ethics%20for%20equitable%20research%20partnerships.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "what_funders_can_do_video_2",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do-2.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Michael%20clip%20for%20TRUST%20training.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "what_publishers_and_editors_can_do",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-publishers-can-do.html"
+    },
+
+    {
+      "id": "bottom_up_exploitation",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/bottom-up-exploitation.html"
+    },
+
+    {
+      "id": "exploitation_video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/exploitation-video.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Reverend%20Mario%20Mahongo%20%20-%20TRUST%20Project.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "additional_video",
+      "type": "video",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/additional-video.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/!Khwa%20ttu%20Kids%20-%20WE%20ARE%20THE%20SAN%20-%20Winner%20in%20the%20TRUST%20San%20rap%20competition.mp4",
+      "startTime": 0,
+      "endTime": 0
+    },
+
+    {
+      "id": "thanks",
+      "type": "html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/thanks.html"
+    }
+  ],
+  "thumbnailURL": "assets/images/logo_horizontal.jpg"
+}
