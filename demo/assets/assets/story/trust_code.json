@@ -1,7 +1,7 @@
 {
   "title": "The TRUST Code in 45 Minutes",
   "shortTitle": "The TRUST Code in 45 Minutes",
-  "bannerImageURL": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/TRUST_cover_people.png",
+  "bannerImageURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/ethics_in_45m/TRUST_cover_people.png",
   "id": "trust_code",
   "metadata": {
     "createdOn": 1718614924,
@@ -16,7 +16,7 @@
     {
       "id": "index",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/index.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/index.html"
     },
     {
       "id": "have-you-heard-about-TRUST",
@@ -52,31 +52,31 @@
     {
       "id": "why-partnerships-important",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/why-partnerships-important.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/why-partnerships-important.html"
     },
 
     {
       "id": "trust_img_1-helicopter-research",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_1.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/trust_img_1.html"
     },
 
     {
       "id": "trust_img_2-skewed-research-attention",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_2.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/trust_img_2.html"
     },
 
     {
       "id": "trust_img_3-ethics-dumping",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_3.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/trust_img_3.html"
     },
 
     {
       "id": "trust_img_3-ethics-dumping-video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/ethics-dumping-script.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/ethics-dumping-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/ethics%20dumping.mp4",
       "startTime": 0,
       "endTime": 0
@@ -85,13 +85,13 @@
     {
       "id": "trust_img_4-humanity-s-challenges",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_4.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/trust_img_4.html"
     },
 
     {
       "id": "trust_code_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust-code.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/trust-code.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/TRUST%20Code.mp4",
       "startTime": 0,
       "endTime": 0
@@ -100,7 +100,7 @@
     {
       "id": "fairness_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/fairness-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/fairness-video.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/fairness.mp4",
       "startTime": 0,
       "endTime": 0
@@ -144,7 +144,7 @@
     {
       "id": "what_researchers_can_do_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-researchers-can-do.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/what-researchers-can-do.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/23%20articles%20TRUST%20Code.mp4",
       "startTime": 0,
       "endTime": 0
@@ -153,7 +153,7 @@
     {
       "id": "what_funders_can_do_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/what-funders-can-do.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/24AV057_Research%20ethics%20for%20equitable%20research%20partnerships.mp4",
       "startTime": 0,
       "endTime": 0
@@ -162,7 +162,7 @@
     {
       "id": "what_funders_can_do_video_2",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do-2.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/what-funders-can-do-2.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Michael%20clip%20for%20TRUST%20training.mp4",
       "startTime": 0,
       "endTime": 0
@@ -171,19 +171,19 @@
     {
       "id": "what_publishers_and_editors_can_do",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-publishers-can-do.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/what-publishers-can-do.html"
     },
 
     {
       "id": "bottom_up_exploitation",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/bottom-up-exploitation.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/bottom-up-exploitation.html"
     },
 
     {
       "id": "exploitation_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/exploitation-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/exploitation-video.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Reverend%20Mario%20Mahongo%20%20-%20TRUST%20Project.mp4",
       "startTime": 0,
       "endTime": 0
@@ -192,16 +192,102 @@
     {
       "id": "additional_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/additional-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/additional-video.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/!Khwa%20ttu%20Kids%20-%20WE%20ARE%20THE%20SAN%20-%20Winner%20in%20the%20TRUST%20San%20rap%20competition.mp4",
       "startTime": 0,
       "endTime": 0
     },
 
     {
+      "id": "trust-code-in-45m-branch",
+      "type": "branch",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/select-badge.html",
+      "choices": [
+        {
+          "linkedComponentID": "thanks",
+          "label": "No"
+        },
+        {
+          "linkedComponentID": "trust-code-in-45m-exam",
+          "label": "Yes"
+        }
+      ]
+    },
+
+    {
+      "id": "trust-code-in-45m-exam",
+      "type": "exam",
+      "content": "This is a quiz for the TRUST Code in 45 minutes module.",
+      "questions": [
+        {
+          "text": "What are the six types of ethics dumping?",
+          "shuffledAnswers": true,
+          "answers": [
+            { "text": "Triple standards, helicopter research, culturally appropriate conduct, lack of due diligence, dishonesty, patronizing conduct." },
+            { "text": "Double standards, heliocentric research, culturally inappropriate conduct, lack of due diligence, dishonesty, patriarchal conduct." },
+            { "text": "Double standards, helicopter research, culturally inappropriate conduct, lack of due diligence, dishonesty, patronizing conduct.", "correct": true },
+            { "text": "Lack of standards, helicopter research, culturally inappropriate conduct, complete due diligence, honesty, patronizing conduct." }
+          ]
+        },
+        {
+          "text": "Ethics dumping is always intentional.",
+          "shuffledAnswers": true,
+          "answers": [
+            { "text": "True - researchers always know what they are doing." },
+            { "text": "False - ethics dumping practices can be unintentional. But this does not mean that it's acceptable.", "correct": true }
+          ]
+        },
+        {
+          "text": "Select the 4 values that the TRUST code is based on from the list below.",
+          "shuffledAnswers": true,
+          "answers": [
+            { "text": "Honesty", "correct": true },
+            { "text": "Caution" },
+            { "text": "Respect", "correct": true },
+            { "text": "Care", "correct": true },
+            { "text": "Idealism" },
+            { "text": "Fairness", "correct": true },
+            { "text": "Compassion" }
+          ]
+        },
+        {
+          "text": "Where did the four values in the TRUST code come from?",
+          "shuffledAnswers": true,
+          "answers": [
+            { "text": "They were predetermined before the risks of exploitation in research were analysed." },
+            { "text": "They came from the philosophy of Aristotle." },
+            { "text": "They came from an analysis of 1000 ethics codes." },
+            { "text": "They were not predetermined, they emerged from an analysis of the risks of exploitation in research.", "correct": true }
+          ]
+        },
+        {
+          "text": "Which moral value does this article from the TRUST code align with? 'Feedback about the findings of the research must be given to local communities and research participants. It should be provided in a way that is meaningful, appropriate and readily comprehended.'",
+          "shuffledAnswers": true,
+          "answers": [
+            { "text": "Fairness", "correct": true },
+            { "text": "Respect" },
+            { "text": "Care" },
+            { "text": "Honesty" }
+          ]
+        }
+      ],
+      "minPercentageToPass": 80.0
+    },
+
+    {
+      "id": "trust-code-in-45m-badge",
+      "type": "badge",
+      "content": "",
+      "badgeName": "TRUST Code in 45 minutes",
+      "badgeImageUrl": "https://api.badgr.io/public/badges/zSk9prBQQcaqCTDUi1l4gA/image",
+      "badgeClassId": "zSk9prBQQcaqCTDUi1l4gA",
+      "issuerId": "3DxsIcj5R-e-PPjzwbbKeQ"
+    },
+
+    {
       "id": "thanks",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/thanks.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/thanks.html"
     }
   ],
   "thumbnailURL": "assets/images/logo_horizontal.jpg"
