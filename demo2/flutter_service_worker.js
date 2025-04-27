@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "98fa3a416c71aa1e6fa7f62209f98573",
+const RESOURCES = {"flutter_bootstrap.js": "527ef5977bf3baa9c5f3efaee1961b91",
 "version.json": "58fb9162dde111eda9da676fd55f9b4b",
 "index.html": "4fbc7345a612e1b069433d58a17e9064",
 "/": "4fbc7345a612e1b069433d58a17e9064",
-"main.dart.js": "8433bd68114298e9e65ec6523c603d00",
+"main.dart.js": "af79bc1d7edc36014ceebb21abde7785",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "eedf41258dde052c982843a604ec5878",
 "icons/Icon-192.png": "70208e339ab34e3ec4df03b2de9f7fd6",
@@ -32,7 +32,7 @@ const RESOURCES = {"flutter_bootstrap.js": "98fa3a416c71aa1e6fa7f62209f98573",
 "assets/assets/images/background.jpg": "70bf136684364437fa0d0995b848bbf0",
 "assets/assets/images/patrick-tomasso-0V3qHmSV1kM-unsplash.jpg": "f683b679e2717a848e86c6170232af9f",
 "assets/assets/images/geronimo-giqueaux-7GU21Ok5Bb4-unsplash.jpg": "3647bbc7a1a81737b494d9ceedeb8a2a",
-"assets/assets/secrets/secrets.json": "adf7117b11f1967e0e9deebdd4de5d68",
+"assets/assets/secrets/secrets.json": "d106370685135f240490b63396246b30",
 "assets/assets/secrets/secrets-example.json": "f153cd6790b53ed429eef93e30e9654f",
 "assets/assets/schema/bucket.json": "b4ae0b41317751d35015897b620f5790",
 "assets/assets/schema/story_schema.json": "9d0074151bf670f43d4bc91878d433dd",
