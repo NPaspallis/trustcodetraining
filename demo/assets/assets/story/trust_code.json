@@ -224,7 +224,7 @@
       "prompt": "Reflective review of the potential applicability of the TRUST code articles to wider settings",
       "minSelections": 1,
       "maxSelections": 23,
-      "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings? Tick all articles that you think could be applied to different types of settings. There are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
+      "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings? Tick all articles that you think could be applied to different types of settings then click submit to see how others have voted and to access our feedback. There are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
       "options": [
         {
           "id": 0,
@@ -373,7 +373,7 @@
       "id": "bucket_ethics_guidance",
       "type": "bucket",
       "title": "Many ethics guidance documents are written in a very technical manner and are very long, sometimes over 100 pages. What are the advantages and disadvantages of very short, jargon-free codes, like the TRUST Code?",
-      "description": "Hold and drag all items in the correct bucket",
+      "description": "Please decide if the following items are advantages or disadvantages, then drag and drop them into the correct category. If you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
       "feedback": "As you might have guessed, we are big fans of the practicality of short, jargon-free codes and have seen the advantages of this over the years since the TRUST code was launched in 2018 at the European Parliament.",
       "buckets": [
         {
