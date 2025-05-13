@@ -1,6 +1,6 @@
 {
-  "title": "The TRUST Code in 45 Minutes",
-  "shortTitle": "The TRUST Code in 45 Minutes",
+  "title": "The TRUST Code in 60 Minutes",
+  "shortTitle": "The TRUST Code in 60 Minutes",
   "bannerImageURL": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/TRUST_cover_people.png",
   "id": "trust_code",
   "metadata": {
@@ -373,7 +373,7 @@
       "type": "bucket",
       "title": "Many ethics guidance documents are written in a very technical manner and are very long, sometimes over 100 pages. What are the advantages and disadvantages of very short, jargon-free codes, like the TRUST Code?",
       "description": "Hold and drag all items in the correct bucket",
-      "feedback": "",
+      "feedback": "As you might have guessed, we are big fans of the practicality of short, jargon-free codes and have seen the advantages of this over the years since the TRUST code was launched in 2018 at the European Parliament.",
       "buckets": [
         {
           "id": 0,
@@ -400,7 +400,7 @@
         {
           "id": 2,
           "correctBucketID": 0,
-          "label": "The guidance is flexible enough to allow for local solutions about how an article is realized."
+          "label": "The guidance is flexible enough to allow for local solutions to put articles into action."
         },
         {
           "id": 3,
