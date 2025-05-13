@@ -222,6 +222,7 @@
       "id": "which_articles_are_important_in_research",
       "type": "multipoll",
       "prompt": "Reflective review of the potential applicability of the TRUST code articles to wider settings",
+      "minSelections": 1,
       "maxSelections": 23,
       "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings? Tick all articles that you think could be applied to different types of settings. There are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
       "options": [
