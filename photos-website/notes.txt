@@ -1,0 +1,8 @@
+Daisy       -> 1
+Dorcas      -> 7
+Jennifer    -> 8
+Joshua      -> 5
+Mercy       -> 6
+Pauline     -> 2
+Rachael     -> 3
+Terry       -> 4
