@@ -212,7 +212,7 @@
     {
       "id": "what_researchers_can_do_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-researchers-can-do.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-researchers-can-do.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/23%20articles%20TRUST%20Code.mp4",
       "startTime": 0,
       "endTime": 0
@@ -348,7 +348,7 @@
     {
       "id": "what_funders_can_do_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-funders-can-do.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/24AV057_Research%20ethics%20for%20equitable%20research%20partnerships.mp4",
       "startTime": 0,
       "endTime": 0
@@ -357,7 +357,7 @@
     {
       "id": "what_funders_can_do_video_2",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do-2.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-funders-can-do-2.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Michael%20clip%20for%20TRUST%20training.mp4",
       "startTime": 0,
       "endTime": 0
@@ -366,7 +366,7 @@
     {
       "id": "what_publishers_and_editors_can_do",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-publishers-can-do.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-publishers-can-do.html"
     },
 
     {
