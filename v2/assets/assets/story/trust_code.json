@@ -103,6 +103,7 @@
       "prompt": "Select three values",
       "minSelections": 3,
       "maxSelections": 3,
+      "columns": 4,
       "content": "Click on the three values you personally prioritize in your work as a researcher (anonymous poll) and see what others have done.",
       "options": [
         {
@@ -224,7 +225,8 @@
       "prompt": "Reflective review of the potential applicability of the TRUST code articles to wider settings",
       "minSelections": 1,
       "maxSelections": 23,
-      "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings? Tick all articles that you think could be applied to different types of settings then click submit to see how others have voted and to access our feedback. There are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
+      "columns": 1,
+      "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings?\nTick all articles that you think could be applied to different types of settings then click submit to see how others have voted and to access our feedback.\nThere are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
       "options": [
         {
           "id": 0,
