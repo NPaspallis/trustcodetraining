@@ -76,7 +76,7 @@
     {
       "id": "trust_img_3-ethics-dumping-video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/ethics-dumping-script.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/ethics-dumping-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trustcodetraining_trust_ethics%20dumping%20for%20TRUST%20Code%20training.mp4",
       "startTime": 0,
       "endTime": 0
@@ -91,7 +91,7 @@
     {
       "id": "trust_code_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust-code.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust-code-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/TRUST%20Code.mp4",
       "startTime": 0,
       "endTime": 0
@@ -168,7 +168,7 @@
     {
       "id": "fairness_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/fairness-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/fairness-video-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/fairness.mp4",
       "startTime": 0,
       "endTime": 0
@@ -378,13 +378,13 @@
       "buckets": [
         {
           "id": 0,
-          "label": "Advantages",
-          "backgroundColor": "#F0FFF0"
+          "label": "ADVANTAGES",
+          "backgroundColor": "#95C93D"
         },
         {
           "id": 1,
-          "label": "Disadvantages",
-          "backgroundColor": "#FFF0F0"
+          "label": "DISADVANTAGES",
+          "backgroundColor": "#3391A0"
         }
       ],
       "bucket_items": [
@@ -429,13 +429,13 @@
     {
       "id": "bottom_up_exploitation",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/bottom-up-exploitation.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/bottom-up-exploitation.html"
     },
 
     {
       "id": "exploitation_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/exploitation-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/exploitation-video-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Reverend%20Mario%20Mahongo%20%20-%20TRUST%20Project.mp4",
       "startTime": 0,
       "endTime": 0
@@ -444,7 +444,7 @@
     {
       "id": "additional_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/additional-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/additional-video-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/!Khwa%20ttu%20Kids%20-%20WE%20ARE%20THE%20SAN%20-%20Winner%20in%20the%20TRUST%20San%20rap%20competition.mp4",
       "startTime": 0,
       "endTime": 0
