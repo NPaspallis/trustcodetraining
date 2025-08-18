@@ -83,6 +83,91 @@
     },
 
     {
+      "id": "bucket_humanity_s_challenges",
+      "type": "bucket",
+      "title": "Ethics Dumping Exercise",
+      "subtitle": "Complete this exercise by finding which example corresponds to each ethics dumping type.",
+      "description": "Each bucket can contain exactly one item.\nIf you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
+      "feedback": "Thank you. Your feedback has been submitted.",
+      "buckets": [
+        {
+          "id": 0,
+          "label": "Double Standards",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 1,
+          "label": "Unfair distribution of benefits/burdens",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 2,
+          "label": "Culturally inappropriate conduct",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 3,
+          "label": "Lack of due diligence",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 4,
+          "label": "Dishonesty",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 5,
+          "label": "Patronizing conduct",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        }
+      ],
+      "bucket_items": [
+        {
+          "id": 0,
+          "correctBucketID": 0,
+          "label": "Avoiding ethics approval knowing that local ethics oversight is weakened through lack of resources."
+        },
+        {
+          "id": 1,
+          "correctBucketID": 1,
+          "label": "Monetizing samples abroad without benefit sharing in the location where the samples were taken.  "
+        },
+        {
+          "id": 2,
+          "correctBucketID": 2,
+          "label": "Working with a rural indigenous community in a low income setting without seeking community approval. "
+        },
+        {
+          "id": 3,
+          "correctBucketID": 3,
+          "label": "Not undertaking any risk assessments in an area where involvement in research can lead to high incrimination or stigmatization risks for research participants."
+        },
+        {
+          "id": 4,
+          "correctBucketID": 4,
+          "label": "Making promises about employing local research assistants, which are not kept when the research starts."
+        },
+        {
+          "id": 5,
+          "correctBucketID": 5,
+          "label": "Defining the research problem and developing the research plan for a setting where one has no local collaborators or local insights."
+        }
+      ]
+    },
+
+    {
       "id": "trust_img_4-humanity-s-challenges",
       "type": "html",
       "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust_img_4.html"
@@ -375,7 +460,8 @@
       "id": "bucket_ethics_guidance",
       "type": "bucket",
       "title": "Many ethics guidance documents are written in a very technical manner and are very long, sometimes over 100 pages. What are the advantages and disadvantages of very short, jargon-free codes, like the TRUST Code?",
-      "description": "Please decide if the following items are advantages or disadvantages, then drag and drop them into the correct category. If you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
+      "subtitle": "Please decide if the following items are advantages or disadvantages, then drag and drop them into the correct category.",
+      "description": "If you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
       "feedback": "As you might have guessed, we are big fans of the practicality of short, jargon-free codes and have seen the advantages of this over the years since the TRUST code was launched in 2018 at the European Parliament.",
       "buckets": [
         {
