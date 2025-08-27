@@ -466,12 +466,12 @@
       "buckets": [
         {
           "id": 0,
-          "label": "ADVANTAGES",
+          "label": "ADVANTAGES OF SHORT CODES",
           "backgroundColor": "#95C93D"
         },
         {
           "id": 1,
-          "label": "DISADVANTAGES",
+          "label": "DISADVANTAGES OF SHORT CODES",
           "backgroundColor": "#3391A0"
         }
       ],
