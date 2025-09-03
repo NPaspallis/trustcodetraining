@@ -193,7 +193,7 @@
       "options": [
         {
           "id": 0,
-          "title": "Precaution.",
+          "title": "Precaution",
           "description": ""
         },
         {
@@ -472,7 +472,7 @@
         {
           "id": 1,
           "label": "DISADVANTAGES OF SHORT CODES",
-          "backgroundColor": "#3391A0"
+          "backgroundColor": "#EB6B52"
         }
       ],
       "bucket_items": [
