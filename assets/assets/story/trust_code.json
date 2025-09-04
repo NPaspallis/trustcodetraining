@@ -16,13 +16,13 @@
     {
       "id": "index",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/index.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/index.html"
     },
     {
       "id": "have-you-heard-about-TRUST",
       "type": "mcq",
       "prompt": "",
-      "content": "Have you heard about the TRUST Code, a Global Code of Conduct for Equitable Research Partnerships? (The code was previously known as the Global Code of Conduct for Research in Resource-Poor Settings.)",
+      "content": "Have you heard about the TRUST Code, a Global Code of Conduct for Equitable Research Partnerships?\n(The code was previously known as the Global Code of Conduct for Research in Resource-Poor Settings.)",
       "options": [
         {
           "id": 0,
@@ -52,46 +52,131 @@
     {
       "id": "why-partnerships-important",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/why-partnerships-important.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/why-partnerships-important.html"
     },
 
     {
       "id": "trust_img_1-helicopter-research",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_1.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust_img_1.html"
     },
 
     {
       "id": "trust_img_2-skewed-research-attention",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_2.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust_img_2.html"
     },
 
     {
       "id": "trust_img_3-ethics-dumping",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_3.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust_img_3.html"
     },
 
     {
       "id": "trust_img_3-ethics-dumping-video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/ethics-dumping-script.html",
-      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/ethics%20dumping.mp4",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/ethics-dumping-script.html",
+      "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trustcodetraining_trust_ethics%20dumping%20for%20TRUST%20Code%20training.mp4",
       "startTime": 0,
       "endTime": 0
     },
 
     {
+      "id": "bucket_humanity_s_challenges",
+      "type": "bucket",
+      "title": "Ethics Dumping Exercise",
+      "subtitle": "Complete this exercise by finding which example corresponds to each ethics dumping type.",
+      "description": "Each bucket can contain exactly one item.\nIf you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
+      "feedback": "Thank you. Your feedback has been submitted.",
+      "buckets": [
+        {
+          "id": 0,
+          "label": "Double Standards",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 1,
+          "label": "Unfair distribution of benefits/burdens",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 2,
+          "label": "Culturally inappropriate conduct",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 3,
+          "label": "Lack of due diligence",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 4,
+          "label": "Dishonesty",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        },
+        {
+          "id": 5,
+          "label": "Patronizing conduct",
+          "backgroundColor": "#3391A0",
+          "minItems": 1,
+          "maxItems": 1
+        }
+      ],
+      "bucket_items": [
+        {
+          "id": 0,
+          "correctBucketID": 0,
+          "label": "Avoiding ethics approval knowing that local ethics oversight is weakened through lack of resources."
+        },
+        {
+          "id": 1,
+          "correctBucketID": 1,
+          "label": "Monetizing samples abroad without benefit sharing in the location where the samples were taken.  "
+        },
+        {
+          "id": 2,
+          "correctBucketID": 2,
+          "label": "Working with a rural indigenous community in a low income setting without seeking community approval. "
+        },
+        {
+          "id": 3,
+          "correctBucketID": 3,
+          "label": "Not undertaking any risk assessments in an area where involvement in research can lead to high incrimination or stigmatization risks for research participants."
+        },
+        {
+          "id": 4,
+          "correctBucketID": 4,
+          "label": "Making promises about employing local research assistants, which are not kept when the research starts."
+        },
+        {
+          "id": 5,
+          "correctBucketID": 5,
+          "label": "Defining the research problem and developing the research plan for a setting where one has no local collaborators or local insights."
+        }
+      ]
+    },
+
+    {
       "id": "trust_img_4-humanity-s-challenges",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust_img_4.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust_img_4.html"
     },
 
     {
       "id": "trust_code_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/trust-code.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/trust-code-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/TRUST%20Code.mp4",
       "startTime": 0,
       "endTime": 0
@@ -103,11 +188,12 @@
       "prompt": "Select three values",
       "minSelections": 3,
       "maxSelections": 3,
+      "columns": 4,
       "content": "Click on the three values you personally prioritize in your work as a researcher (anonymous poll) and see what others have done.",
       "options": [
         {
           "id": 0,
-          "title": "Precaution.",
+          "title": "Precaution",
           "description": ""
         },
         {
@@ -168,7 +254,7 @@
     {
       "id": "fairness_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/fairness-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/fairness-video-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/fairness.mp4",
       "startTime": 0,
       "endTime": 0
@@ -212,7 +298,7 @@
     {
       "id": "what_researchers_can_do_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-researchers-can-do.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-researchers-can-do.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/23%20articles%20TRUST%20Code.mp4",
       "startTime": 0,
       "endTime": 0
@@ -224,7 +310,8 @@
       "prompt": "Reflective review of the potential applicability of the TRUST code articles to wider settings",
       "minSelections": 1,
       "maxSelections": 23,
-      "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings? Tick all articles that you think could be applied to different types of settings then click submit to see how others have voted and to access our feedback. There are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
+      "columns": 1,
+      "content": "Which articles of the TRUST code do you think could be relevant beyond research in resource-limited settings?\nTick all articles that you think could be applied to different types of settings then click submit to see how others have voted and to access our feedback.\nThere are no right or wrong answers, this exercise will help you to reflect on your commitment to inclusive research. Your answers are anonymous.",
       "options": [
         {
           "id": 0,
@@ -348,7 +435,7 @@
     {
       "id": "what_funders_can_do_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-funders-can-do.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/24AV057_Research%20ethics%20for%20equitable%20research%20partnerships.mp4",
       "startTime": 0,
       "endTime": 0
@@ -357,7 +444,7 @@
     {
       "id": "what_funders_can_do_video_2",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-funders-can-do-2.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-funders-can-do-2.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Michael%20clip%20for%20TRUST%20training.mp4",
       "startTime": 0,
       "endTime": 0
@@ -366,25 +453,26 @@
     {
       "id": "what_publishers_and_editors_can_do",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/what-publishers-can-do.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/what-publishers-can-do.html"
     },
 
     {
       "id": "bucket_ethics_guidance",
       "type": "bucket",
       "title": "Many ethics guidance documents are written in a very technical manner and are very long, sometimes over 100 pages. What are the advantages and disadvantages of very short, jargon-free codes, like the TRUST Code?",
-      "description": "Please decide if the following items are advantages or disadvantages, then drag and drop them into the correct category. If you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
+      "subtitle": "Please decide if the following items are advantages or disadvantages, then drag and drop them into the correct category.",
+      "description": "If you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
       "feedback": "As you might have guessed, we are big fans of the practicality of short, jargon-free codes and have seen the advantages of this over the years since the TRUST code was launched in 2018 at the European Parliament.",
       "buckets": [
         {
           "id": 0,
-          "label": "Advantages",
-          "backgroundColor": "#F0FFF0"
+          "label": "ADVANTAGES OF SHORT CODES",
+          "backgroundColor": "#95C93D"
         },
         {
           "id": 1,
-          "label": "Disadvantages",
-          "backgroundColor": "#FFF0F0"
+          "label": "DISADVANTAGES OF SHORT CODES",
+          "backgroundColor": "#EB6B52"
         }
       ],
       "bucket_items": [
@@ -421,7 +509,7 @@
         {
           "id": 6,
           "correctBucketID": 1,
-          "label": "Some people might prefer extensive guidance."
+          "label": "Some people believe in long codes."
         }
       ]
     },
@@ -429,13 +517,13 @@
     {
       "id": "bottom_up_exploitation",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/bottom-up-exploitation.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/bottom-up-exploitation.html"
     },
 
     {
       "id": "exploitation_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/exploitation-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/exploitation-video-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/Reverend%20Mario%20Mahongo%20%20-%20TRUST%20Project.mp4",
       "startTime": 0,
       "endTime": 0
@@ -444,7 +532,7 @@
     {
       "id": "additional_video",
       "type": "video",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/additional-video.html",
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/additional-video-script.html",
       "videoURL": "https://storage.googleapis.com/prepared-project.appspot.com/stories/trust/video/!Khwa%20ttu%20Kids%20-%20WE%20ARE%20THE%20SAN%20-%20Winner%20in%20the%20TRUST%20San%20rap%20competition.mp4",
       "startTime": 0,
       "endTime": 0
@@ -453,7 +541,7 @@
     {
       "id": "thanks",
       "type": "html",
-      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust/thanks.html"
+      "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/thanks.html"
     }
   ],
   "thumbnailURL": "assets/images/logo_horizontal.jpg"
