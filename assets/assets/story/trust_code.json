@@ -19,31 +19,25 @@
       "content": "https://storage.googleapis.com/prepared-project.appspot.com/trustcodetraining/trust-v2/index.html"
     },
     {
-      "id": "have-you-heard-about-TRUST",
-      "type": "mcq",
-      "prompt": "",
+      "id": "poll-have-you-heard-about-TRUST",
+      "type": "poll",
+      "prompt": "Please select one.",
       "content": "Have you heard about the TRUST Code, a Global Code of Conduct for Equitable Research Partnerships?\n(The code was previously known as the Global Code of Conduct for Research in Resource-Poor Settings.)",
       "options": [
         {
           "id": 0,
           "title": "Yes",
-          "description": "",
-          "correct": true,
-          "feedback": ""
+          "description": ""
         },
         {
           "id": 1,
           "title": "Yes, I have used it.",
-          "description": "",
-          "correct": true,
-          "feedback": ""
+          "description": ""
         },
         {
           "id": 2,
           "title": "No.",
-          "description": "",
-          "correct": true,
-          "feedback": ""
+          "description": ""
         }
       ],
       "feedback": "For those of you who are familiar with the TRUST Code, this is a refresher. For the newcomers, welcome on board! We hope you will find the code useful."
