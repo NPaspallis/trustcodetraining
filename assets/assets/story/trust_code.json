@@ -81,7 +81,7 @@
       "type": "bucket",
       "title": "Ethics Dumping Exercise",
       "subtitle": "Complete this exercise by finding which example corresponds to each ethics dumping type.",
-      "description": "Each bucket can contain exactly one item.\nIf you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
+      "description": "Each bucket can contain exactly one item. It might require a short waiting time before you can drag the next item.\nIf you wish to change your choices, you can easily do this by clicking on the 'undo' icon that appears on each item when selected.",
       "feedback": "Thank you. Your feedback has been submitted.",
       "buckets": [
         {
@@ -455,7 +455,7 @@
       "type": "bucket",
       "title": "Many ethics guidance documents are written in a very technical manner and are very long, sometimes over 100 pages. What are the advantages and disadvantages of very short, jargon-free codes, like the TRUST Code?",
       "subtitle": "Please decide if the following items are advantages or disadvantages, then drag and drop them into the correct category.",
-      "description": "If you wish to change your choices, you can easily do this by clicking on the red circle that appears on each item when selected.",
+      "description": "It might require a short waiting time before you can drag the next item.\nIf you wish to change your choices, you can easily do this by clicking on the 'undo' icon that appears on each item when selected.",
       "feedback": "As you might have guessed, we are big fans of the practicality of short, jargon-free codes and have seen the advantages of this over the years since the TRUST code was launched in 2018 at the European Parliament.",
       "buckets": [
         {
